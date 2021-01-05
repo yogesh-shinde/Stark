@@ -1,6 +1,6 @@
 # Stark
 1] First Create Projects by using this command,
-  django-admin startproject Test
+  django-admin stratproject Test
 
 2] Goto insode the project and add the app using this command,
   python manage.py startapp app
